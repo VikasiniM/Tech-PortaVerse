@@ -51,6 +51,6 @@ These technologies and tools have significantly enhanced my technical abilities 
 
 ## 🏷️ Vikasini Mohanasundaram  
 **Full Stack Developer & Software Engineer**  
-[GitHub](https://github.com/vikasini) | [LinkedIn](https://www.linkedin.com/in/vikasini) | [Twitter](https://twitter.com/vikasini)
+[GitHub](https://github.com/VikasiniM) | [LinkedIn](https://www.linkedin.com/in/vikasinim/) | 
 
 ---
